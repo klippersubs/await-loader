@@ -1,6 +1,6 @@
 {
     "name"        : "await-loader",
-    "version"     : "0.0.1",
+    "version"     : "0.0.2",
     "description" : "Simplest promise loader for webpack.",
     "main"        : "index.js",
     "author"      : "Alice Klipper <alice.klipper@yandex.com>",
